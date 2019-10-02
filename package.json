@@ -1,0 +1,41 @@
+{
+ "name": "hexo-qiniu-sync-parallel",
+ "author": {
+    "name": "jinjianfeng",
+    "email": "jianfeng.jjf@qq.com"
+  },
+  "bugs": {
+    "url": "https://github.com/jinjianfeng/hexo-qiniu-sync-parallel/issues"
+  },
+  "dependencies": {
+    "chokidar": "^1.5.1",
+    "colors": "^1.1.2",
+    "hexo-util": "^0.5.3",
+    "lodash": "4.13.1",
+    "minimatch": "^3.0.0",
+    "qiniu": "^6.1.11"
+  },
+  "deprecated": false,
+  "description": "hexo qiniu static files sync plugin parallel",
+  "devDependencies": {},
+  "homepage": "https://github.com/jinjianfeng/hexo-qiniu-sync-parallel#readme",
+  "keywords": [
+    "Hexo",
+    "qiniu",
+    "sync",
+    "static",
+    "image",
+    "javascripts",
+    "stylesheet"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jinjianfeng/hexo-qiniu-sync-parallel.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.4.7"
+}
