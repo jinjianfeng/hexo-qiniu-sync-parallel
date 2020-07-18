@@ -11,7 +11,7 @@
     "chokidar": "^1.5.1",
     "colors": "^1.1.2",
     "hexo-util": "^0.5.3",
-    "lodash": "4.13.1",
+    "lodash": "4.17.19",
     "minimatch": "^3.0.0",
     "qiniu": "^6.1.11"
   },
